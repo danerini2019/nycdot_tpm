@@ -3,3 +3,4 @@ data/*
 
 # But keep this subfolder or file if needed
 !data/README.md
+data/TIMS_atr_combined.csv
