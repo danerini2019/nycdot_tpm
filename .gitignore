@@ -1,0 +1,5 @@
+# Ignore all files in the data folder
+data/*
+
+# But keep this subfolder or file if needed
+!data/README.md
